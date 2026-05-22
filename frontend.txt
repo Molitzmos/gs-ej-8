@@ -1,1 +1,2 @@
 Modulo front end
+Front end actualizado con navbar
